@@ -7,7 +7,7 @@ jobs:
 
     steps:
       - checkout
-      - run: python3 calc.py
+      - run: python3 practical6.py
 
 workflows:
   build_prog:
